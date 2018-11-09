@@ -1,0 +1,6 @@
+in this project i used:
+-components
+-state management - redux
+-firebase auth
+-calling native sms system
+-reuse forms

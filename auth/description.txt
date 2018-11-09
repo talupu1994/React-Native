@@ -1,0 +1,3 @@
+in this project i used:
+-components
+-auth request and handle promise in using firebase

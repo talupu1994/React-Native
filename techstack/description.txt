@@ -1,0 +1,4 @@
+in this project i used:
+-components
+-state management - redux
+-collapse layout
